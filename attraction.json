@@ -1,0 +1,49 @@
+[
+    {
+        "name": "Horseshoe Bend",
+        "address": "Arizona 86040",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12765.887138990254!2d-111.5191174611651!3d36.879060378916705!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87346ced52b21091%3A0xb623646960566829!2sHorseshoe%20Bend!5e0!3m2!1sen!2sus!4v1647905234614!5m2!1sen!2sus",
+        "description": "Horseshoe Bend is a horseshoe-shaped incised meander of the Colorado River located near the town of Page, Arizona, United States. It is also referred to as the 'east rim of the Grand Canyon'. The overlook of the Horseshoe Bend is about 4,200 feet above sea level. It was formed approximately 200 million years ago when a gigantic mass of sand dunes covered the landscape ranging from Arizona to Wyoming.", 
+        "image": "https://cdn.getyourguide.com/img/location/5c9b44a53a5dd.jpeg/68.jpg"
+    },
+
+    {
+        "name": "Mountain Valley Navajo Tribal Park",
+        "address": "AZ 84536",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12747.402602727161!2d-110.11797651257415!3d36.989497985675584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87373183ffa168fd%3A0xcd9f911704a64b6e!2sMonument%20Valley!5e0!3m2!1sen!2sus!4v1647905638553!5m2!1sen!2sus",
+        "description": " Mountain Valley Navajo Tribal Park is a region of the Colorado Plateau characterized by a cluster of vast sandstone buttes, the largest reaching 1,000 ft (300 m) above the valley floor. It is located on the Utah-Arizona state line, near the Four Corners area. Mountain Valley means valley of the rocks",
+        "image": "https://cdn.getyourguide.com/img/location/5e903a3a54235.jpeg/92.jpg"
+    },
+    
+    {
+        "name": "Hoover Dam Lookout",
+        "address": "118 Kingman Wash Access Rd, Temple Bar Marina, AZ 86443",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31620.336030985716!2d-114.73595145092739!3d36.01702146393548!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c92d43d0cce957%3A0x768ab67f480dc6fa!2sHoover%20Dam%20Lookout!5e0!3m2!1sen!2sus!4v1647905817693!5m2!1sen!2sus",
+        "description": "The Hoover Dam Lookout is the observation deck over the gargantuan Hoover Dam, opened in the 1930s on the Colorado River. Hoover Dam is a concrete arch-gravity dam in the Black Canyon of the Colorado River, on the border between the U.S. states of Nevada and Arizona. Hoover Dam is named for Mr. Herbert Hoover, the Nation's 31st president. ",
+        "image": "https://graylinelasvegas.com/files/2315/7835/3147/your-guide-to-the-hoover-dam.jpg"
+    },
+
+    {
+        "name": "Wilson Mountain Trail",
+        "address": "Arizona 86336",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3272.302116566048!2d-111.74596398453899!3d34.89886708038403!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da3cbd829e45f%3A0x523e80a9628f6b85!2sWilson%20Mountain%20Trail%2C%20Arizona%2086336!5e0!3m2!1sen!2sus!4v1647911250261!5m2!1sen!2sus",
+        "description": "Wilson Mountain is 7,122 feet tall and named after Richard Wilson, a bear hunter who was killed by a grizzly in 1885. This is the tallest mountain around Sedona. The summit is a grassy basalt plateau stretching nearly 2 miles wide, unlike the smaller summits found at the end of other Sedona hiking trails.",
+        "image": "https://cdn.allsedona.com/images/content/21057_17288_Wilson_Mountain_Sedona_Arizona_lg.jpg"
+    }, 
+
+    {
+        "name": "Antelope Canyon",
+        "address": "AZ 86040",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d25530.632930357937!2d-111.41187679813656!3d36.88247416561112!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x873411f49ba00e0b%3A0x98361608ad6aa79b!2sAntelope%20Canyon!5e0!3m2!1sen!2sus!4v1647993233275!5m2!1sen!2sus",
+        "description": "Antelope Canyon is a slot canyon in the American Southwest, on Navajo land east of Lechee, Arizona. It includes five separate, scenic slot canyon sections on the Navajo Reservation, referred to as Upper Antelope Canyon, Rattle Snake Canyon, Owl Canyon, Mountain Sheep Canyon and Lower Antelope Canyon.",
+        "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/07/7f/67/da.jpg"
+    }, 
+
+    {
+        "name": "Havasu Falls",
+        "address": "AZ 86435",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3217.353324060192!2d-112.70006173450574!3d36.25520008006455!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80ccb2097e3e5897%3A0xa18ad2a8c19eaad7!2sHavasu%20Falls!5e0!3m2!1sen!2sus!4v1647911643115!5m2!1sen!2sus",
+        "description": "Havasu Falls is a waterfall of Havasu Creek, located in the Grand Canyon, Arizona, United States. It is within Havasupai tribal lands. 'Havasupai' means people of the blue-green waters. The stunning turquoise blue water at Havasu Falls is a result of dissolved calcium carbonate and magnesium that naturally occurs in Havasu Creek.",
+        "image": "https://rt-homepage.roadtrippers.com/wp-content/uploads/2019/02/Navajo-Falls-Havasu-Falls.jpg"
+    }
+]
